@@ -1,9 +1,9 @@
 <h1 align="left">Hi there!</h1>
-<h3 align="left">I am curious and passionate engineer!</h3>
+<h3 align="left">I am an electrical engineer and a data science instructor with a Master's degree in optimization.</h3>
 
 - 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
 
-- 👨‍💻 I teach Machine Learning and Data Analysis at [IGTO](https://www.igti.com.br/) and [COTEMIG](https://www.cotemig.com.br/ensino/graduacoes)
+- 👨‍💻 I teach Machine Learning and Data Analysis at [IGTI](https://www.igti.com.br/) and [COTEMIG](https://www.cotemig.com.br/ensino/graduacoes)
 
 - 📫 How to reach me [matheusomendonca@gmail.com](mailto:matheusomendonca@gmail.com)
 
