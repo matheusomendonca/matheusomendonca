@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
 
-- 👨‍💻 I teach Machine Learning and Data Analysis at IGTI [https://www.igti.com.br/](https://www.igti.com.br/) and COTEMIG [https://www.cotemig.com.br/ensino/graduacoes](https://www.cotemig.com.br/ensino/graduacoes)
+- 👨‍💻 I teach Machine Learning and Data Analysis at [https://www.igti.com.br/](IGTI) and COTEMIG [https://www.cotemig.com.br/ensino/graduacoes](https://www.cotemig.com.br/ensino/graduacoes)
 
 - 📫 How to reach me **https://www.linkedin.com/in/matheusmendonca/**
 
