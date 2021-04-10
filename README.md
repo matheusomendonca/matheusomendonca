@@ -5,7 +5,7 @@
 
 - 👨‍💻 I teach Machine Learning and Data Analysis at [IGTI](https://www.igti.com.br/) and [COTEMIG](https://www.cotemig.com.br/ensino/graduacoes)
 
-- 📫 How to reach me [matheusomendonca@gmail.com](mailto:matheusomendonca@gmail.com)
+- 📫 How to reach me: [matheusomendonca@gmail.com](mailto:matheusomendonca@gmail.com)
 
 - ⚡ Fun fact: **I play drums!**
 
