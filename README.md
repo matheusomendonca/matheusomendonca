@@ -1,5 +1,5 @@
 <h1 align="left">Hi there!</h1>
-<h3 align="left">I am an electrical engineer and a data science instructor with a Master's degree in optimization. I am a problem-driven and a team-oriented player who enjoys being constantly challenged to learn and do more. My work is focused on solving real-world problems and delivering high-quality products by international standards, integrating research with the industry needs. Experienced in team management, coordinating projects in several areas, such as energy generation, electric energy commercialization, scheduling and logistics.</h3>
+<h3 align="left">I am curious and passionate engineer!</h3>
 
 - 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
 
