@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
 
-- 👨‍💻 I teach Machine Learning and Data Analysis at [https://www.igti.com.br/](IGTI) and COTEMIG [https://www.cotemig.com.br/ensino/graduacoes](https://www.cotemig.com.br/ensino/graduacoes)
+- 👨‍💻 I teach Machine Learning and Data Analysis at [IGTO](https://www.igti.com.br/) and [COTEMIG](https://www.cotemig.com.br/ensino/graduacoes)
 
-- 📫 How to reach me **https://www.linkedin.com/in/matheusmendonca/**
+- 📫 How to reach me [matheusomendonca@gmail.com](mailto:matheusomendonca@gmail.com)
 
-- ⚡ Fun fact **I play drums!**
+- ⚡ Fun fact: **I play drums!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
