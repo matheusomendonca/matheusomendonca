@@ -1,11 +1,11 @@
 <h1 align="left">Hi there!</h1>
-<h3 align="left">I am an electrical engineer with a Master's degree in optimization.</h3>
+<h3 align="left">I am a curious and passionate electrical engineer with a master's degree in optimization.</h3>
 
 - 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
 
 - 👨‍💻 I teach Machine Learning and Data Analysis at [IGTI](https://www.igti.com.br/) and [COTEMIG](https://www.cotemig.com.br/ensino/graduacoes)
 
-- 📝 Here's the link to my [dissertation](https://www.ppgee.ufmg.br/defesas/1744M.PDF) (PT-BR)
+- 📝 Here's the link to my [master's dissertation](https://www.ppgee.ufmg.br/defesas/1744M.PDF) (PT-BR)
 
 - 📫 How to reach me: [matheusomendonca@gmail.com](mailto:matheusomendonca@gmail.com)
 
