@@ -5,6 +5,8 @@
 
 - 👨‍💻 I teach Machine Learning and Data Analysis at [IGTI](https://www.igti.com.br/) and [COTEMIG](https://www.cotemig.com.br/ensino/graduacoes)
 
+- 📝 Here's the link to my [dissertation](https://www.ppgee.ufmg.br/defesas/1744M.PDF) (PT-BR)
+
 - 📫 How to reach me: [matheusomendonca@gmail.com](mailto:matheusomendonca@gmail.com)
 
 - ⚡ Fun fact: **I play drums!**
