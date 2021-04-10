@@ -1,5 +1,5 @@
 <h1 align="left">Hi there!</h1>
-<h3 align="left">I am an electrical engineer and a data science instructor with a Master's degree in optimization.</h3>
+<h3 align="left">I am an electrical engineer with a Master's degree in optimization.</h3>
 
 - 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
 
